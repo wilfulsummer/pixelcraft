@@ -3,7 +3,7 @@ name: Magnitine Node large
 description: "it is a superior energy node because it is made of magnitine"
 size: 2
 laserRange: 30
-maxNodes: 20
+maxNodes: 30
 laserColor1: E9E9E9FF
 laserColor2: CFCFCFFF
 requirements: [

@@ -36,7 +36,7 @@ plans: [
       magnitine/45
       feromagnet/10
     ]
-    time: 1500
+    time: 1225
   }
     {
     unit: rustydart

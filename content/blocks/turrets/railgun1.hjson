@@ -4,19 +4,19 @@ description: Powerfull railgun that can't target air. It shoots powerfull bolts 
 shootSound: laser
 health: 600
 size: 2
-reloadTime: 50
+reloadTime: 25
 range: 400
 shots: 1
 targetAir: false
 ammoUseEffect: casing4
 rotateSpeed: 4
 ammoPerShot: 2
-itemCapacity: 10
+itemCapacity: 20
 ammoTypes: {
  titanium: {
     type: ArtilleryBulletType
 	speed: 32
-	damage: 25
+	damage: 40
 	width: 4
 	height: 18
 	shootEffect: shootSmall
